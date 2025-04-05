@@ -1,5 +1,5 @@
 # Fumen Basic Parser
-Basically, this project reconsturcts part function of previos project "Taiko-Fumen-Analyzer" and provides some simple utilities.
+Basically, this project reconsturcts part function of previos project "Taiko-Fumen-Analyzer" in C++, and provides some simple utilities.
 
 # Usage
 1. Move work directory to where main.cpp locates in, and compile the code
